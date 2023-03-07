@@ -1,5 +1,5 @@
 // Do-While Loop Javascript
-
+var x = 6;
 do {
-
-}while(); // codition
+  document.write('Hello');
+} while (x > 5); // codition
