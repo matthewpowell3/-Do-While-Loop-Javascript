@@ -4,4 +4,6 @@
 var x = 5;
 do {
   document.write('Hello my name is matthew learning javasrcipt');
+  x--;
+  // 5 is equal and not greater than five
 } while (x > 5); // codition
